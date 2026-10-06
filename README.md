@@ -1,92 +1,166 @@
-# 📜 Certifications & Achievements
+# 📜 Certifications & Technical Achievements
 
-Welcome to my certifications repository.
+> A curated collection of my professional certifications, technical courses,
+> NPTEL certifications, and hackathon achievements.
 
-This repository contains my professional certifications, technical course
-certificates, NPTEL certifications, and hackathon achievements.
+I am a Computer Science student focused on building reliable software,
+AI-powered applications, and practical solutions to real-world problems.
+
+### 🎯 Target Roles
+
+- Software Engineer I
+- AI Engineer I
+- Forward Deployed Engineer
 
 ---
 
-## 🤖 AI
+## 🧠 Core Technical Areas
 
-Certificates related to Artificial Intelligence, Machine Learning,
-Large Language Models, Data Science, and AI Engineering.
+| Area | Focus |
+|---|---|
+| 💻 Software Engineering | Backend Development, APIs, Software Design |
+| 🤖 AI Engineering | LLMs, AI Applications, Machine Learning |
+| 🧩 AI Systems | RAG, Information Retrieval, AI Agents |
+| 🐍 Programming | Python, Java, JavaScript |
+| 🌐 Development | Full-Stack & Web Development |
+| ☁️ Infrastructure | Cloud, DevOps, Docker, Linux |
+| 🔧 Engineering Tools | Git, GitHub, Agile, Microservices |
 
-📁 **[View AI Certificates](./AI)**
+---
+
+# 🏆 Certifications & Achievements
+
+## 🤖 AI & Machine Learning
+
+Courses and certifications focused on Artificial Intelligence,
+Machine Learning, Data Science, LLMs, and AI application development.
+
+📁 **[View AI & Machine Learning Certificates →](./AI)**
+
+### Selected Areas
+
+- AI Application Development
+- Large Language Models (LLMs)
+- Machine Learning
+- Python for Data Science
+- AI Engineering
+- Information Retrieval
 
 ---
 
 ## 💻 Programming
 
-Certificates covering programming languages and development technologies.
+Programming certifications covering languages and software development
+fundamentals.
 
-📁 **[View Programming Certificates](./Programming)**
+📁 **[View Programming Certificates →](./Programming)**
+
+### Technologies
+
+- Python
+- Java
+- JavaScript
 
 ---
 
 ## ⚙️ Software Engineering
 
-Certificates related to Software Engineering, Git & GitHub, Agile,
-Cloud Computing, DevOps, Linux, Containers, and Microservices.
+Certifications covering software engineering practices, development
+methodologies, cloud technologies, DevOps, containers, Linux,
+microservices, and version control.
 
-📁 **[View Software Engineering Certificates](./Software%20Engineering)**
+📁 **[View Software Engineering Certificates →](./Software%20Engineering)**
+
+### Areas
+
+- Software Engineering
+- Git & GitHub
+- Agile & Scrum
+- Cloud Computing
+- DevOps
+- Docker & Containers
+- Kubernetes
+- Linux & Shell Scripting
+- Microservices
+- Test & Behavior Driven Development
 
 ---
 
 ## 🎓 NPTEL
 
-Certificates earned through NPTEL courses.
+Academic certifications earned through NPTEL courses.
 
-📁 **[View NPTEL Certificates](./NPTEL)**
+📁 **[View NPTEL Certificates →](./NPTEL)**
+
+### Courses
+
+- Introduction to Information Retrieval
+- Introduction to Large Language Models (LLMs)
 
 ---
 
 ## 🏆 Hackathons
 
-Hackathon participation certificates and achievements.
+Participation and achievement certificates from technical hackathons
+and innovation events.
 
-📁 **[View Hackathon Certificates](./Hackathons)**
+📁 **[View Hackathon Certificates →](./Hackathons)**
+
+Hackathons have provided opportunities to work on real-world problems,
+develop prototypes, experiment with emerging technologies, and collaborate
+under time constraints.
 
 ---
 
 ## 📚 Other Certifications
 
-Additional certifications, participation certificates, and learning
-achievements.
+Additional technical and participation certificates.
 
-📁 **[View Other Certificates](./Other)**
-
----
-
-## 🚀 Areas of Learning
-
-- Artificial Intelligence & Machine Learning
-- Large Language Models (LLMs)
-- Python
-- Java
-- JavaScript
-- Web Development
-- Software Engineering
-- Git & GitHub
-- Cloud Computing
-- DevOps
-- Docker & Containers
-- Linux
-- Data Science
-- Agile Development
-- Microservices
+📁 **[View Other Certificates →](./Other)**
 
 ---
 
-## 👨‍💻 About Me
+# 🚀 Technical Interests
 
-I am a Computer Science student interested in Software Development,
-Artificial Intelligence, Machine Learning, and Full-Stack Development.
+I am particularly interested in building systems at the intersection of
+software engineering and artificial intelligence.
 
-I continuously improve my technical skills through courses, projects,
-certifications, and hackathons.
+### Current Focus
+
+- AI-powered applications
+- LLM-based systems
+- Retrieval-Augmented Generation (RAG)
+- AI Agents
+- Backend engineering
+- REST APIs
+- Full-stack applications
+- Cloud deployment
+- Developer tools
+- Real-world AI solutions
 
 ---
 
-⭐ This repository is regularly updated as I complete new certifications
-and participate in technical events.
+# 🛠️ Technologies
+
+```text
+Languages
+Python • Java • JavaScript • SQL
+
+AI / ML
+LLMs • RAG • Machine Learning • Prompt Engineering
+AI Agents • Information Retrieval
+
+Backend
+FastAPI • Django • REST APIs
+
+Frontend
+React • Tailwind CSS • Streamlit
+
+Databases
+PostgreSQL • MySQL
+
+DevOps / Cloud
+Git • GitHub • Docker • Linux • Cloud • DevOps
+
+Engineering
+Microservices • Agile • Software Engineering
