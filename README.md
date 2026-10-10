@@ -1,16 +1,14 @@
 # 📜 Certifications & Technical Achievements
 
-> A curated collection of my professional certifications, technical courses,
-> NPTEL certifications, and hackathon achievements.
+> A curated collection of my professional certifications, technical courses, NPTEL certifications, and hackathon achievements.
 
-I am a Computer Science student focused on building reliable software,
-AI-powered applications, and practical solutions to real-world problems.
+I am a Computer Science student focused on building reliable software, AI-powered applications, and practical solutions to real-world problems.
 
-### 🎯 Target Roles
+## 🎯 Target Roles
 
-- Software Engineer I
-- AI Engineer I
-- Forward Deployed Engineer
+- **Software Engineer I** — Software development, problem-solving, data structures and algorithms, backend systems, and scalable applications.
+- **AI Engineer I** — AI-powered applications, LLM integration, retrieval-augmented generation (RAG), and intelligent systems.
+- **Forward Deployed Engineer** — Customer-focused engineering, rapid prototyping, deployment, and solving real-world problems with software and AI.
 
 ---
 
@@ -25,15 +23,28 @@ AI-powered applications, and practical solutions to real-world problems.
 | 🌐 Development | Full-Stack & Web Development |
 | ☁️ Infrastructure | Cloud, DevOps, Docker, Linux |
 | 🔧 Engineering Tools | Git, GitHub, Agile, Microservices |
+| 🧮 Problem Solving | Data Structures, Algorithms, LeetCode |
 
 ---
 
 # 🏆 Certifications & Achievements
 
+## ⭐ Featured Certification
+
+### Python Data Structures & Algorithms + LeetCode Exercises
+
+- **Instructor:** Scott Barrett
+- **Duration:** 10.5 hours
+- **Completed:** October 10, 2026
+- **Focus:** Data structures, algorithms, and LeetCode exercises
+
+📄 **[View Certificate (PDF)](./Programming/Python-Data-Structures-and-Algorithms-LeetCode-Exercises.pdf)**
+
+---
+
 ## 🤖 AI & Machine Learning
 
-Courses and certifications focused on Artificial Intelligence,
-Machine Learning, Data Science, LLMs, and AI application development.
+Courses and certifications focused on Artificial Intelligence, Machine Learning, Data Science, Large Language Models, and AI application development.
 
 📁 **[View AI & Machine Learning Certificates →](./AI)**
 
@@ -50,24 +61,23 @@ Machine Learning, Data Science, LLMs, and AI application development.
 
 ## 💻 Programming
 
-Programming certifications covering languages and software development
-fundamentals.
+Programming certifications covering programming languages, development fundamentals, and problem-solving.
 
 📁 **[View Programming Certificates →](./Programming)**
 
-### Technologies
+### Technologies & Learning
 
 - Python
 - Java
 - JavaScript
+- Data Structures & Algorithms
+- LeetCode Exercises
 
 ---
 
 ## ⚙️ Software Engineering
 
-Certifications covering software engineering practices, development
-methodologies, cloud technologies, DevOps, containers, Linux,
-microservices, and version control.
+Certifications covering software engineering practices, development methodologies, cloud technologies, DevOps, containers, Linux, microservices, and version control.
 
 📁 **[View Software Engineering Certificates →](./Software%20Engineering)**
 
@@ -82,7 +92,7 @@ microservices, and version control.
 - Kubernetes
 - Linux & Shell Scripting
 - Microservices
-- Test & Behavior Driven Development
+- Test & Behavior-Driven Development
 
 ---
 
@@ -101,14 +111,11 @@ Academic certifications earned through NPTEL courses.
 
 ## 🏆 Hackathons
 
-Participation and achievement certificates from technical hackathons
-and innovation events.
+Participation and achievement certificates from technical hackathons and innovation events.
 
 📁 **[View Hackathon Certificates →](./Hackathons)**
 
-Hackathons have provided opportunities to work on real-world problems,
-develop prototypes, experiment with emerging technologies, and collaborate
-under time constraints.
+Hackathons provide opportunities to explore technical challenges, develop prototypes, experiment with emerging technologies, and build practical solutions under time constraints.
 
 ---
 
@@ -122,15 +129,14 @@ Additional technical and participation certificates.
 
 # 🚀 Technical Interests
 
-I am particularly interested in building systems at the intersection of
-software engineering and artificial intelligence.
+I am interested in building systems at the intersection of software engineering and artificial intelligence.
 
-### Current Focus
+### Areas of Interest
 
 - AI-powered applications
 - LLM-based systems
 - Retrieval-Augmented Generation (RAG)
-- AI Agents
+- AI agents
 - Backend engineering
 - REST APIs
 - Full-stack applications
@@ -140,27 +146,59 @@ software engineering and artificial intelligence.
 
 ---
 
-# 🛠️ Technologies
+# 🛠️ Technologies & Tools
 
-```text
-Languages
-Python • Java • JavaScript • SQL
+### Languages
+Python · Java · JavaScript · SQL
 
-AI / ML
-LLMs • RAG • Machine Learning • Prompt Engineering
-AI Agents • Information Retrieval
+### AI & Machine Learning
+LLMs · RAG · Machine Learning · Prompt Engineering · AI Agents · Information Retrieval
 
-Backend
-FastAPI • Django • REST APIs
+### Backend Development
+FastAPI · Django · REST APIs
 
-Frontend
-React • Tailwind CSS • Streamlit
+### Frontend Development
+React · Tailwind CSS · Streamlit
 
-Databases
-PostgreSQL • MySQL
+### Databases
+PostgreSQL · MySQL
 
-DevOps / Cloud
-Git • GitHub • Docker • Linux • Cloud • DevOps
+### Cloud & DevOps
+Git · GitHub · Docker · Linux · Cloud Computing · DevOps
 
-Engineering
-Microservices • Agile • Software Engineering
+### Software Engineering
+Microservices · Agile · Software Design · Data Structures & Algorithms
+
+---
+
+# 🎯 Career Direction
+
+I am working toward opportunities where I can combine software engineering fundamentals with practical AI development.
+
+### Software Engineer I
+Building reliable, maintainable software, developing backend systems, solving algorithmic problems, and contributing to scalable applications.
+
+### AI Engineer I
+Developing AI-powered applications, integrating LLMs, building intelligent workflows, and applying AI techniques to practical problems.
+
+### Forward Deployed Engineer
+Working closely with users and stakeholders to understand real-world challenges, develop tailored software solutions, deploy them, and improve them through feedback.
+
+---
+
+# 📈 Continuous Learning
+
+This repository is updated as I complete technical courses, earn certifications, and participate in hackathons.
+
+> Certifications represent my learning journey. Projects and hands-on engineering work demonstrate how I apply that knowledge.
+
+---
+
+## 👨‍💻 Connect With Me
+
+- **GitHub:** [@eshanroy](https://github.com/eshanroy)
+- **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/)
+
+---
+
+⭐ Explore the certificates and projects on my GitHub profile to learn more about my technical interests and learning journey.
