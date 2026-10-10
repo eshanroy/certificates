@@ -31,14 +31,14 @@ I am a Computer Science student focused on building reliable software, AI-powere
 
 ## ⭐ Featured Certification
 
-### Python Data Structures & Algorithms + LeetCode Exercises
+### Python Data Structures and Algorithms
 
 - **Instructor:** Scott Barrett
 - **Duration:** 10.5 hours
 - **Completed:** October 10, 2026
 - **Focus:** Data structures, algorithms, and LeetCode exercises
 
-📄 **[View Certificate (PDF)](./Programming/Python-Data-Structures-and-Algorithms-LeetCode-Exercises.pdf)**
+📄 **[View Certificate (PDF)](./Programming/Python%20Data%20Structures%20and%20Algorithms.pdf)**
 
 ---
 
