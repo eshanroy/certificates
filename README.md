@@ -42,6 +42,20 @@ I am a Computer Science student focused on building reliable software, AI-powere
 
 ---
 
+## 🏆 Featured Hackathon Achievement
+
+### VORTEX 2K26 — Global AI Innovation Hackathon
+
+- **Organizer:** Innovation Hacks
+- **Platform:** Unstop
+- **Achievement:** Certificate of Participation
+- **Date:** October 21, 2026
+- **Focus:** AI innovation, problem-solving, and technology-driven solutions
+
+📄 **[View VORTEX 2K26 Certificate (PDF)](./Hackathons/VORTEX-2K26-Global-AI-Innovation-Hackathon.pdf)**
+
+---
+
 ## 🤖 AI & Machine Learning
 
 Courses and certifications focused on Artificial Intelligence, Machine Learning, Data Science, Large Language Models, and AI application development.
@@ -115,6 +129,14 @@ Participation and achievement certificates from technical hackathons and innovat
 
 📁 **[View Hackathon Certificates →](./Hackathons)**
 
+### Featured Participation
+
+- **VORTEX 2K26 — Global AI Innovation Hackathon**
+- AI Startup Buildathon 2026
+- MemoryVerse AI '26
+- Queue Cure '26
+- FlowZint
+
 Hackathons provide opportunities to explore technical challenges, develop prototypes, experiment with emerging technologies, and build practical solutions under time constraints.
 
 ---
@@ -149,24 +171,31 @@ I am interested in building systems at the intersection of software engineering 
 # 🛠️ Technologies & Tools
 
 ### Languages
+
 Python · Java · JavaScript · SQL
 
 ### AI & Machine Learning
+
 LLMs · RAG · Machine Learning · Prompt Engineering · AI Agents · Information Retrieval
 
 ### Backend Development
+
 FastAPI · Django · REST APIs
 
 ### Frontend Development
+
 React · Tailwind CSS · Streamlit
 
 ### Databases
+
 PostgreSQL · MySQL
 
 ### Cloud & DevOps
+
 Git · GitHub · Docker · Linux · Cloud Computing · DevOps
 
 ### Software Engineering
+
 Microservices · Agile · Software Design · Data Structures & Algorithms
 
 ---
@@ -176,12 +205,15 @@ Microservices · Agile · Software Design · Data Structures & Algorithms
 I am working toward opportunities where I can combine software engineering fundamentals with practical AI development.
 
 ### Software Engineer I
+
 Building reliable, maintainable software, developing backend systems, solving algorithmic problems, and contributing to scalable applications.
 
 ### AI Engineer I
+
 Developing AI-powered applications, integrating LLMs, building intelligent workflows, and applying AI techniques to practical problems.
 
 ### Forward Deployed Engineer
+
 Working closely with users and stakeholders to understand real-world challenges, develop tailored software solutions, deploy them, and improve them through feedback.
 
 ---
