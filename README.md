@@ -42,15 +42,23 @@ I am a Computer Science student focused on building reliable software, AI-powere
 
 ---
 
-## 🏆 Featured Hackathon Achievement
+## 🏆 Featured Hackathon Achievements
 
-### VORTEX 2K26 — Global AI Innovation Hackathon
+### 1. HackNowa Global Hackathon 2026
+
+- **Organizer:** Innovation Hacks
+- **Platform:** Unstop
+- **Achievement:** Certificate of Participation
+- **Issue Date:** October 21, 2026
+
+📄 **[View HackNowa Global Hackathon 2026 Certificate (PDF)](./Hackathons/INNOVATION-HACKS-GLOBAL-AI-HACKATHON-2026.pdf)**
+
+### 2. VORTEX 2K26 — Global AI Innovation Hackathon
 
 - **Organizer:** Innovation Hacks
 - **Platform:** Unstop
 - **Achievement:** Certificate of Participation
 - **Date:** October 21, 2026
-- **Focus:** AI innovation, problem-solving, and technology-driven solutions
 
 📄 **[View VORTEX 2K26 Certificate (PDF)](./Hackathons/VORTEX-2K26-Global-AI-Innovation-Hackathon.pdf)**
 
@@ -129,9 +137,10 @@ Participation and achievement certificates from technical hackathons and innovat
 
 📁 **[View Hackathon Certificates →](./Hackathons)**
 
-### Featured Participation
+### Hackathon Participation
 
-- **VORTEX 2K26 — Global AI Innovation Hackathon**
+- HackNowa Global Hackathon 2026
+- VORTEX 2K26 — Global AI Innovation Hackathon
 - AI Startup Buildathon 2026
 - MemoryVerse AI '26
 - Queue Cure '26
