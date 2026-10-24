@@ -58,9 +58,8 @@ I am a Computer Science student focused on building reliable software, AI-powere
 - **Organizer:** Innovation Hacks
 - **Platform:** Unstop
 - **Achievement:** Certificate of Participation
-- **Date:** October 21, 2026
 
-📄 **[View VORTEX 2K26 Certificate (PDF)](./Hackathons/VORTEX-2K26-Global-AI-Innovation-Hackathon.pdf)**
+📄 **[View VORTEX 2K26 Certificate (PDF)](./Hackathons/Vortex%202K26%20-%20Innovation%20Hacks.pdf)**
 
 ---
 
